@@ -6,7 +6,7 @@ Este repositorio contiene la estructura y el código fuente del proyecto \*\*Ast
 
 
 
-mi\_proyecto/
+Estructura/
 
 │
 
