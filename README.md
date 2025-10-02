@@ -1,8 +1,8 @@
-\# 🚀 PP2---Astronomica---2C-2025
+\# 🚀 Equipo-4-PP2-ASTRONOMICA-2C-2025
 
 
 
-Este repositorio contiene la estructura y el código fuente del proyecto \*\*Astronomica\*\*, desarrollado en el marco de la materia PP2 para el curso 2C del año 2025. El objetivo principal es aplicar técnicas de ciencia de datos y aprendizaje automático en el análisis de fenómenos astronómicos.
+Este repositorio contiene la estructura y el código fuente del proyecto \*\*Astronómica\*\*, desarrollado en el marco de la materia PP2 para el curso 2C del año 2025. El objetivo principal es aplicar técnicas de ciencia de datos y aprendizaje automático en el análisis de fenómenos astronómicos.
 
 
 
@@ -65,8 +65,4 @@ Estructura/
 ├── README.md               # Descripción general del proyecto
 
 └── .gitignore              # Archivos y carpetas a ignorar en Git
-
-
-
-
 
